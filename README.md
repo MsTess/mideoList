@@ -16,12 +16,11 @@
     What is MideoList?
     "Mideo" is a combination of "my" + "video" and has Filipino and Latin roots.
 
-    For all movie and TV show fanatics! We knew many people,
-    including ourselves who would utilize and appreciate a
-    website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched and allow you to view your personal rating on each one.
+    For all movie and TV show fanatics! We know many people
+    out there who would utilize and appreciate a website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched and allow you to view your personal rating on each one.
 
-    And with the help of our search functionality you can look
-    up thousands of movies and TV shows and view trailers, which streaming service carries them and more! Just at the click of a button!
+    With the help of our search functionality you can look
+    up information for thousands of movies and TV shows, and view their trailers, and even which streaming services carry them, just at the click of a button.
   </p>
     <br />
     <a href="https://github.com/stephkristen/mideo-list"><strong>Explore the docs »</strong></a>
@@ -201,7 +200,7 @@ Project Link: [https://github.com/stephkristen/mideo-list](https://github.com/st
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* To our Dev10 instructors! We never could have done this without their help.
-* https://www.dev-10.com/
+* To our Dev10 instructors! We never could have done this without their help. [https://www.dev-10.com/](https://www.dev-10.com/)
+* Much appreciation goes to the creator [https://github.com/othneildrew](https://github.com/othneildrew) of the following README template:[https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
