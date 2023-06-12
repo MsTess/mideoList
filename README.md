@@ -13,16 +13,16 @@
 
 <h3 align="center">MideoList</h3>
 
-  <p align="justified-left">
+  <p align="center">
     What is MideoList?
     "Mideo" is a combination of "my" + "video" and has Filipino and Latin roots.
   </p>
   <br />
-  <p align="justified-left">
+  <p align="center">
     For all of the movie and TV show fanatics! We know many people out there who would utilize and appreciate a website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched, and allow you to view your personally rate each one.
   </p>
   <br />
-  <p align="justified-left">
+  <p align="center">
     With the help of our search functionality you can look up information on thousands of movies and TV shows, view their trailers, and even see which streaming service carries that "watchable" item.
   </p>
   <br />
