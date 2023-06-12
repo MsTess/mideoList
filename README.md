@@ -1,6 +1,7 @@
 # MideoList
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -12,17 +13,19 @@
 
 <h3 align="center">MideoList</h3>
 
-  <p align="center">
+  <p align="justified-left">
     What is MideoList?
     "Mideo" is a combination of "my" + "video" and has Filipino and Latin roots.
-
-    For all of the movie and TV show fanatics! We know many people
-    out there who would utilize and appreciate a website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched, and allow you to view your personally rate each one.
-
-    With the help of our search functionality you can look
-    up information on thousands of movies and TV shows, view their trailers, and even see which streaming service carries that "watchable" item.
   </p>
-    <br />
+  <br />
+  <p align="justified-left">
+    For all of the movie and TV show fanatics! We know many people out there who would utilize and appreciate a website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched, and allow you to view your personally rate each one.
+  </p>
+  <br />
+  <p align="justified-left">
+    With the help of our search functionality you can look up information on thousands of movies and TV shows, view their trailers, and even see which streaming service carries that "watchable" item.
+  </p>
+  <br />
     <a href="https://github.com/MsTess/mideoList"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -71,51 +74,55 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
  -->
 
 <!-- BUILT WITH (CORE TECH) -->
+
 ### Built With
 
-* RapidAPI
-* React
-* Bootstrap
-* JQuery
-* Spring
-* MongoDB
-* JUnit
-* Java
-* HTML
-* CSS
-* JavaScript
+- RapidAPI
+- React
+- Bootstrap
+- JQuery
+- Spring
+- MongoDB
+- JUnit
+- Java
+- HTML
+- CSS
+- JavaScript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get started, you'll need to install the packages listed in the Prerequisites section. At this time, if you want to change the API key, you'll have to hunt through the docs for where to do those replacements. See the Installations sections for more information.
 
 <!-- PREREQUISITES -->
+
 ### Prerequisites
 
-* npm
+- npm
   ```sh
   npm install react-router-dom
   ```
-* npm
+- npm
   ```sh
   npm install bootstrap
   ```
-* npm
+- npm
   ```sh
   npm install react-bootstrap
   ```
-* npm
+- npm
   ```sh
   npm install sass
   ```
-* npm
+- npm
   ```sh
   npm install youtube-react
   ```
-<!-- INSTALLATION -->
+  <!-- INSTALLATION -->
+
 ### Installation
 
 1. Get a free API Key at [https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/)
@@ -130,41 +137,43 @@ To get started, you'll need to install the packages listed in the Prerequisites 
    <!-- Enter your API in `config.js` -->
 4. At the moment, you'll have to search through the docs and insert your own API key. Currently, this is not in our config.js.
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = "ENTER YOUR API";
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Randomized trailer on the home page to give you an idea of what to watch
 - [ ] Search movies and series (aka "watchables") by key word
 - [ ] View watchable details
-    - [ ] streaming services
-    - [ ] rating
-    - [ ] genre
-    - [ ] cast members
-    - [ ] IMDB rating
-    - [ ] synopsis
-    - [ ] trailer
-    - [ ] release year or range of years airing
+  - [ ] streaming services
+  - [ ] rating
+  - [ ] genre
+  - [ ] cast members
+  - [ ] IMDB rating
+  - [ ] synopsis
+  - [ ] trailer
+  - [ ] release year or range of years airing
 - [ ] Add a watchable to one of three lists (every user has)
-    - [ ] Plan to Watch
-    - [ ] Completed Movies
-    - [ ] Completed Series
-    - [ ] Lists are sortable (alphabet, year, etc.)
-    - [ ] Add a personal rating between 1-100
+  - [ ] Plan to Watch
+  - [ ] Completed Movies
+  - [ ] Completed Series
+  - [ ] Lists are sortable (alphabet, year, etc.)
+  - [ ] Add a personal rating between 1-100
 - [ ] View, add, and edit content for personal watchlists
-    - [ ] Plan to Watch
-    - [ ] Completed Movies
-    - [ ] Completed Series
+  - [ ] Plan to Watch
+  - [ ] Completed Movies
+  - [ ] Completed Series
 
 See the [open issues](https://github.com/MsTess/mideoList/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -187,22 +196,25 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
+
 ## Contact
 
-* Tess Roseburrough - roseburrought@gmail.com
-* Anthony Rocco-Frank - roccofrankanthony@gmail.com
-* Stephanie Valdez - steph40997@gmail.com
+- Tess Roseburrough - roseburrought@gmail.com
+- Anthony Rocco-Frank - roccofrankanthony@gmail.com
+- Stephanie Valdez - steph40997@gmail.com
 
 Project Link: [https://github.com/MsTess/mideoList](https://github.com/MsTess/mideoList)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* To our Dev10 instructors! We never could have done this without their help. [https://www.dev-10.com/](https://www.dev-10.com/)
-* Much appreciation goes to the creator of the following README template:
-  * [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-  * [https://github.com/othneildrew](https://github.com/othneildrew) 
+- To our Dev10 instructors! We never could have done this without their help.
+  - [https://www.dev-10.com/](https://www.dev-10.com/)
+- Much appreciation goes to the creator of the following README template:
+  - [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+  - [https://github.com/othneildrew](https://github.com/othneildrew)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
