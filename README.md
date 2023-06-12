@@ -16,23 +16,23 @@
     What is MideoList?
     "Mideo" is a combination of "my" + "video" and has Filipino and Latin roots.
 
-    For all movie and TV show fanatics! We know many people
-    out there who would utilize and appreciate a website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched and allow you to view your personal rating on each one.
+    For all of the movie and TV show fanatics! We know many people
+    out there who would utilize and appreciate a website like this.  With a similar function to the website, "MyAnimeList," our application eliminates having to remember which movies and TV shows you've already watched, and allow you to view your personally rate each one.
 
     With the help of our search functionality you can look
-    up information for thousands of movies and TV shows, and view their trailers, and even which streaming services carry them, just at the click of a button.
+    up information on thousands of movies and TV shows, view their trailers, and even see which streaming service carries that "watchable" item.
   </p>
     <br />
-    <a href="https://github.com/stephkristen/mideo-list"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MsTess/mideoList"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/stephkristen/mideo-list">View Demo</a>
+    <a href="https://github.com/MsTess/mideoList">View Demo</a>
     ·
     <a href="https://www.canva.com/design/DAFlBc3fPZw/Tx5CgqHWSSfHe8dnHlEvPQ/edit?utm_content=DAFlBc3fPZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">View Demo Presentation Slides</a>
     ·
-    <a href="https://github.com/stephkristen/mideo-list/issues">Report Bug</a>
+    <a href="https://github.com/MsTess/mideoList/issues">Report Bug</a>
     ·
-    <a href="https://github.com/stephkristen/mideo-list/issues">Request Feature</a>
+    <a href="https://github.com/MsTess/mideoList/issues">Request Feature</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -121,7 +121,7 @@ To get started, you'll need to install the packages listed in the Prerequisites 
 1. Get a free API Key at [https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/stephkristen/mideo-list.git
+   git clone https://github.com/MsTess/mideoList.git
    ```
 3. Install NPM packages
    ```sh
@@ -160,7 +160,7 @@ To get started, you'll need to install the packages listed in the Prerequisites 
     - [ ] Completed Movies
     - [ ] Completed Series
 
-See the [open issues](https://github.com/stephkristen/mideo-list/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MsTess/mideoList/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,11 +189,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+* Tess Roseburrough - roseburrought@gmail.com
 * Anthony Rocco-Frank - roccofrankanthony@gmail.com
 * Stephanie Valdez - steph40997@gmail.com
-* Tess Roseburrough - roseburrought@gmail.com
 
-Project Link: [https://github.com/stephkristen/mideo-list](https://github.com/stephkristen/mideo-list)
+Project Link: [https://github.com/MsTess/mideoList](https://github.com/MsTess/mideoList)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,6 +201,8 @@ Project Link: [https://github.com/stephkristen/mideo-list](https://github.com/st
 ## Acknowledgments
 
 * To our Dev10 instructors! We never could have done this without their help. [https://www.dev-10.com/](https://www.dev-10.com/)
-* Much appreciation goes to the creator [https://github.com/othneildrew](https://github.com/othneildrew) of the following README template:[https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* Much appreciation goes to the creator of the following README template:
+  * [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+  * [https://github.com/othneildrew](https://github.com/othneildrew) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
