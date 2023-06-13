@@ -3,11 +3,6 @@ import background from '../images/projector-bw.jpg'
 import React, { useEffect, useState } from 'react';
 import YouTube from 'react-youtube';
 
-// TODO:
-    // Add about section
-    // add sign up button
-    // add log in button
-
 const trailers = {
     1: 'https://www.youtube.com/watch?v=KAE5ymVLmZg',
     2: 'https://www.youtube.com/watch?v=dz6eBeW19Lg',
@@ -81,7 +76,7 @@ function Home() {
         // const options = {
         //     method: 'GET',
         //     headers: {
-        //         'X-RapidAPI-Key': '29529a668bmsh6a9f62367cbcd5ap1f0a53jsncd59c509341f',
+        //         'X-RapidAPI-Key': // go get API key from RapidAPI
         //         'X-RapidAPI-Host': 'streaming-availability.p.rapidapi.com'
         //     }
         // };
@@ -124,6 +119,7 @@ function Home() {
         // }
     }
 
+    // needed if no button to generate trailer
     // useEffect(() => {
     //     const fetchData = async () => {
     //         await getWatchableFromAPI();
