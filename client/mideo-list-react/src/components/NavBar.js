@@ -66,14 +66,18 @@ function NavBar() {
 							</>
 						)}
 					</ul>
-					{user && (
+					{user && user.firstName ? (
 						<>
 							<span className='navbar-text mx-2'>Hello, {user.firstName}!</span>
-							<button className='btn btn-dark' onClick={handleLogout}>
-								Log Out
-							</button>
+						</>
+					) : (
+						<>
+							<span className='navbar-text mx-2'>Welcome to MideoList!</span>
 						</>
 					)}
+					<>
+						<button className='btn btn-dark' onClick={handleLogout}>Log Out</button>
+					</>
 				</div>
 			</div>
 		</nav>

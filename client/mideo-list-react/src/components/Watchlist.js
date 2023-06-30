@@ -35,12 +35,20 @@ function Watchlist() {
     navigate("/search");
   };
 
+
   return (
     <div className="container p-5">
-      {user && (
+        {user && user.firstName ? (
         <>
           <h1 className="p-4" style={{ textAlign: "center", color: "rgba(255, 255, 255, 0.808)" }}>
             Welcome, {user.firstName}!
+          </h1>
+        </>
+      ) :
+      (
+        <>
+          <h1 className="p-4" style={{ textAlign: "center", color: "rgba(255, 255, 255, 0.808)" }}>
+            Welcome to WatchLists!
           </h1>
         </>
       )}
