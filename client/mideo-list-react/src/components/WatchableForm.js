@@ -155,14 +155,14 @@ function WatchableForm({ watchable }) {
             </div>
             <div>
               <label className="p-1 m-1" htmlFor="watchableRating">
-                Rating:{" "}
+                Rating (1-10):{" "}
               </label>
               <input
                 className="m-2"
                 type="number"
                 id="watchableRating"
                 min={1}
-                max={100}
+                max={10}
                 step={1}
                 value={selectedRating}
                 onChange={handleRatingChange}

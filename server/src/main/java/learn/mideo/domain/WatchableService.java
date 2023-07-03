@@ -10,7 +10,7 @@ import java.util.Optional;
 @Service
 public class WatchableService {
 
-    public final static int MAX_PERSONAL_RATING = 100;
+    public final static int MAX_PERSONAL_RATING = 10;
 
     public final static int MIN_PERSONAL_RATING = 0;
 
